@@ -1,12 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LinkedList/LinkedList.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/stackManager.cs">
     <Files>
-      <File FileName="Assets/LinkedList/LinkedList.cs" Line="14" Column="1" />
-      <File FileName="Assets/EduPush/Scene1Script.cs" Line="1" Column="1" />
-      <File FileName="Assets/Menu_options/DataStructure.cs" Line="3" Column="35" />
-      <File FileName="Assets/EduPush/Change_Scene.cs" Line="11" Column="41" />
-      <File FileName="Assets/DS/DS.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/input.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/manager.cs" Line="14" Column="2" />
+      <File FileName="Assets/Scripts/data.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/stackInput.cs" Line="25" Column="40" />
+      <File FileName="Assets/Scripts/stackManager.cs" Line="25" Column="4" />
+      <File FileName="Assets/Scripts/stackData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/stackDraw.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

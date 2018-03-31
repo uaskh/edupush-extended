@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{47F9C836-E7DD-83EE-61C0-F683A4654342}</ProjectGuid>
+    <ProjectGuid>{4745D6D7-5B72-BBF2-B27E-FAB740289C82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,8 +60,20 @@
      <Compile Include="Assets\Menu_options\DataStructure.cs" />
      <Compile Include="Assets\Menu_options\operatingSystem.cs" />
      <Compile Include="Assets\Menu_options\Sortng.cs" />
+     <Compile Include="Assets\Scripts\boxscript.cs" />
+     <Compile Include="Assets\Scripts\control.cs" />
+     <Compile Include="Assets\Scripts\cube.cs" />
+     <Compile Include="Assets\Scripts\data.cs" />
+     <Compile Include="Assets\Scripts\input.cs" />
+     <Compile Include="Assets\Scripts\inputIS.cs" />
+     <Compile Include="Assets\Scripts\inputSS.cs" />
+     <Compile Include="Assets\Scripts\insertinscript.cs" />
+     <Compile Include="Assets\Scripts\manager.cs" />
+     <Compile Include="Assets\Scripts\managerIS.cs" />
+     <Compile Include="Assets\Scripts\managerSS.cs" />
+     <Compile Include="Assets\Scripts\selectionscript.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/home/vansika/chd/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/home/aksh/unity/chd3.0/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -91,10 +103,10 @@
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>/home/vansika/.config/unity3d/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>/home/aksh/.config/unity3d/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>/home/vansika/.config/unity3d/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>/home/aksh/.config/unity3d/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

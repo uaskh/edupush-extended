@@ -306,7 +306,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 432933192}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.861557, y: 34.06781, z: -15}
+  m_LocalPosition: {x: 10.355911, y: 29.76345, z: -15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2105718681}
@@ -658,7 +658,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1809690439}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 302.64825, y: -196.57957, z: 0}
+  m_LocalPosition: {x: 404.71375, y: -146.49944, z: 0}
   m_LocalScale: {x: 1.3750163, y: 1.8150007, z: 1}
   m_Children:
   - {fileID: 1072289901}
@@ -717,7 +717,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Secene2
+          m_StringArgument: mainUI
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1932949568}
@@ -971,8 +971,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2105718677}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 609.5, y: 451, z: 0}
-  m_LocalScale: {x: 1.5135072, y: 1.5135072, z: 1.5135072}
+  m_LocalPosition: {x: 333.5, y: 138, z: 0}
+  m_LocalScale: {x: 0.6192939, y: 0.6192939, z: 0.6192939}
   m_Children:
   - {fileID: 164776451}
   - {fileID: 432933193}

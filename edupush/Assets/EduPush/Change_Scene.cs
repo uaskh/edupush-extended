@@ -8,7 +8,7 @@ public class Change_Scene : MonoBehaviour {
 	// Use this for initialization
 
 	public void change_scene(string scene){
-			SceneManager.LoadSceneAsync ("Secene2");
+			SceneManager.LoadSceneAsync (scene);
 
 	}
 }

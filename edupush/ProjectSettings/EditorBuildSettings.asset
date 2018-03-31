@@ -8,15 +8,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EduPush/Scene1.unity
     guid: 4a50ad66344ad40e4a080369c6e28299
-  - enabled: 1
+  - enabled: 0
     path: Assets/Menu_options/Secene2.unity
     guid: b561891f7ce084ef3852b27105e3b645
   - enabled: 1
-    path: Assets/DS/D_S.unity
-    guid: b25502ebd20424db7aa77fcb29f49257
+    path: Assets/mainUI.unity
+    guid: a6f229a6b2c51497fb2a4d29674b7f07
+  - enabled: 1
+    path: Assets/Scenes/input.unity
+    guid: 5d16cec94ac1346f7976f2ad7b26e6c2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/insertion.unity
+    guid: 51fa392d17da7496bb10dd72e6bccd91
+  - enabled: 1
+    path: Assets/Scenes/selection.unity
+    guid: 6c27d12f3e379431281db224948136b3
+  - enabled: 1
+    path: Assets/LinkedList/Linked_list.unity
+    guid: 955be78416a504444bd5268ee86ce64a
   - enabled: 1
     path: Assets/OS/O_S.unity
     guid: 245cf115046b04882bb6609c84884a20
   - enabled: 1
-    path: Assets/Sorting_Algo/S_A.unity
-    guid: 6afe3322973a740efb8b1930e7a74ec9
+    path: Assets/Scenes/sorting.unity
+    guid: 44ab909ee5b584a68b309ee6b435b49a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
